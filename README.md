@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<a href="https://github.com/Maverik010">
+https://github-readme-stats.vercel.app/api?username=Maverik010&theme=midnight-purple&show_icons=true
+</a>
+
+<a href="https://github.com/Maverik010">
+https://github-readme-stats.vercel.app/api/top-langs/?username=Maverik010&theme=midnight-purple&show_icons=true&layout=compact
+</a>
+  
+ 
+ 
 <!--
 **Maverik010/Maverik010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
