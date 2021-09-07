@@ -3,7 +3,7 @@
 <a href="https://github.com/Maverik010">
 <img src="https://github-readme-stats.vercel.app/api?username=Maverik010&theme=midnight-purple&show_icons=true"></img>
 </a>
-
+<br><hr>
 <a href="https://github.com/Maverik010">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverik010&theme=midnight-purple&show_icons=true&layout=compact"></img>
 </a>
