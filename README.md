@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <a href="https://github.com/Maverik010">
-https://github-readme-stats.vercel.app/api?username=Maverik010&theme=midnight-purple&show_icons=true
+<img src="https://github-readme-stats.vercel.app/api?username=Maverik010&theme=midnight-purple&show_icons=true"></img>
 </a>
 
 <a href="https://github.com/Maverik010">
-https://github-readme-stats.vercel.app/api/top-langs/?username=Maverik010&theme=midnight-purple&show_icons=true&layout=compact
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverik010&theme=midnight-purple&show_icons=true&layout=compact"></img>
 </a>
   
  
