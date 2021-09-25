@@ -7,7 +7,9 @@
 <a href="https://github.com/Maverik010">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverik010&theme=midnight-purple&show_icons=true&layout=compact"></img>
 </a>
-  
+<hr>
+<br>
+<b>- 🌱 I’m currently learning Python and SQL</b>
  
  
 <!--
