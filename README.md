@@ -9,7 +9,6 @@
 </a>
 <hr>
 <br>
-<b>- 🌱 I’m currently learning Python and SQL</b>
  
  
 <!--
